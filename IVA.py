@@ -14,7 +14,7 @@ ivasumado = 0
 ivaseparado = 0
 
 print('-------------------------------------------------')
-print('Bienvenido al programa para calcular el IVA!!')
+print('Bienvenido al programa para calcular el IVA!')
 print('-------------------------------------------------')
 print('Comience ingresando sus datos basicos (Cualquier usuario es valido, y la pw es "tremendo")')
 usuario = input("Usuario: ")
